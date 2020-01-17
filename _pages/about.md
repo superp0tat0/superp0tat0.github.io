@@ -11,7 +11,5 @@ redirect_from:
 Website under construction
 ======
 1. Hi, there
-1. If you are trying to find more information about me, you could visit my Linkedin website.
-1. My personal website is still under construction, however I will fulfill my information later.
-1. I am currently busy to do my course works, graduation and TA and RA jobs.
+1. If you are trying to find more information about me, you could visit my Linkedin website. My personal website is still under construction, however I will fulfill my information later.I am currently busy to do my course works, graduation， TA and RA jobs.
 
