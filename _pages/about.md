@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Website under construction
+Personal Summary
 ======
 Hi, Visitors
-If you are trying to find more information about me, you could visit my Linkedin website. My personal website is still under construction, however I will fulfill my information later.I am currently busy to do my course works, graduation， TA and RA jobs.
+
+My name is Siyi Wei, and I am currently a final year statistical specialist. My interest lies between statistics and computer science. Moreover, I am interest in Machine Learning and Data Mining. I am currently looking for possible Summer interships and Graduation education. Check my projects at [my github](https://github.com/superp0tat0/), and [my resume](https://github.com/superp0tat0/superp0tat0.github.io/files/resume.pdf).
 
