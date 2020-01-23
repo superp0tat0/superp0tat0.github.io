@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://superp0tat0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "superp0tat0/superp0tat0.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -75,13 +75,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-156797669-1"
 
 
 # Site Author
 author:
   name             : "Siyi Wei"
-  avatar           : "profile.png"
+  avatar           : "https://superp0tat0.github.io/files/teaser.jpg"
   bio              : "Final Year Student studied in UTSC"
   location         : "Toronto"
   employer         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/siyi-wei-20268a153/"
   orcid            :
   pinterest        :
   soundcloud       :
