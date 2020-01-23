@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics Specialist, University of Toronto Scarbrough, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2020: Research Assistant
+  * University of Toronto Scarbrough
+  * Duties included: MOSS Data Analysis
+  * Supervisor: Professor Kang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2019: QA analyst and WEB development
+  * Rakuten Kobo
+  * Duties included: 
+    * Deliver web stories that improve the crawler performance following custom Agile management and report to release manager during daily release meetings. The stories help the access rate increase 22% compare to the same period in 2018.
+    * Developing New Kobo Audio subscription plan web page and API services using C#, report it to product owner. Got positive feedback in code skills from the developers.
+    * Implement UI automation test cases for multiple stories with selenium and Ruby.
+
   
 Skills
 ======
@@ -35,25 +36,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
