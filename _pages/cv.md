@@ -13,6 +13,9 @@ Education
 ======
 * B.S. in Statistics Specialist, University of Toronto Scarbrough, 2020
 
+Skills
+======
+
 Work experience
 ======
 * Winter 2020: Research Assistant
@@ -31,8 +34,11 @@ Teaching experience
 ======
 * Teaching Assistant:
   * Undergraduate
-    * CSCC11: Introduction to Machine Learning and Data Mining                         Fall 2019, Winter 2020
-    * STAB23: Introduction to Statistics for Social Science                            Fall 2019, Winter 2020
-    * CSCA08: Introduction to Programming							                                              Fall 2019
-    * MATA22: Linear Algebra I									                                                  Winter 2020
-    * MATB24: Linear Algebra II									                                                    Fall 2018
+    * CSCC11: Introduction to Machine Learning and Data Mining (Fall 2019, Winter 2020)
+    * STAB23: Introduction to Statistics for Social Science (Fall 2019, Winter 2020)
+    * CSCA08: Introduction to Programming (Fall 2019)
+    * MATA22: Linear Algebra I (Winter 2020)
+    * MATB24: Linear Algebra II (Fall 2018)
+
+Projects
+======
