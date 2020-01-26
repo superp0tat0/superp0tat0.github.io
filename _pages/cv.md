@@ -27,12 +27,12 @@ Work experience
     * Developing New Kobo Audio subscription plan web page and API services using C#, report it to product owner. Got positive feedback in code skills from the developers.
     * Implement UI automation test cases for multiple stories with selenium and Ruby.
 
-  
-Skills
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Assistant:
+  * Undergraduate
+    * CSCC11: Introduction to Machine Learning and Data Mining                         Fall 2019, Winter 2020
+    * STAB23: Introduction to Statistics for Social Science                            Fall 2019, Winter 2020
+    * CSCA08: Introduction to Programming							                                              Fall 2019
+    * MATA22: Linear Algebra I									                                                  Winter 2020
+    * MATB24: Linear Algebra II									                                                    Fall 2018
