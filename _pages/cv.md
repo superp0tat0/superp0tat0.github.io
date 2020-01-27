@@ -14,7 +14,7 @@ Education
 * B.S. in Statistics Specialist, University of Toronto Scarbrough, 2020
 * <details>
     <summary>Relevant courses</summary>
-
+  
     ## Final two year cGPA (3.85)
     1. Statistics
         * Introduction to Probability, Introduction to Statistics, Stochastic Process, Stochastic Inference, Methods of Data Analysis I & II, Data Collection, Design SCI Studies, Advanced Statistical Learning and Data Mining, Time Series.
@@ -23,7 +23,6 @@ Education
     3. Mathematics
         * Linear Algebra, Discrete Mathematics, Calculus for Mathematical Sciences, Introduction to Combinatorics, Linear Programming and Optimization, Techniques of the Calculus of Multivariables.
   </details>
-
 
 Skills
 ======
