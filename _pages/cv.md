@@ -15,6 +15,13 @@ Education
 
 Skills
 ======
+* Programming
+  * Python/R/C#/C/SQL/MATLAB
+  * Linux(Ubuntu)/Git/Tenserflow/Jenkins/Docker
+* Data Science
+  * Feature Engineering
+  * Modeling
+  * Data Analyzing
 
 Work experience
 ======
@@ -39,6 +46,3 @@ Teaching experience
     * CSCA08: Introduction to Programming (Fall 2019)
     * MATA22: Linear Algebra I (Winter 2020)
     * MATB24: Linear Algebra II (Fall 2018)
-
-Projects
-======
