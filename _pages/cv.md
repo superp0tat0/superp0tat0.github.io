@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics Specialist, University of Toronto Scarbrough, 2020
+* B.S. in Statistics Specialist and Computer Science Minor, University of Toronto Scarbrough, 2020
 * <details>
     <summary>Relevant courses</summary>
   
