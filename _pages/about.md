@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Summary"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,8 @@ redirect_from:
 ---
 *"I know that I know nothing"*
 
+Personal Summary
+===
 Hi, Visitors
 
 My name is Siyi Wei, and I am currently a final year statistical specialist. My interest lies between statistics and computer science. Moreover, I am specifically interest in Machine Learning algorithms and Statistical Learning ideologies. Driven by my interests, I have participated DataFest UofT 2019, RBC Hackthoron 2019 and Business Data Scientist Challenge Statistics Canada 2020 as data scientist.  
