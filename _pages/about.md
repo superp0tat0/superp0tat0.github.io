@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*"I know that I know nothing"*
 
 Hi, Visitors
 
