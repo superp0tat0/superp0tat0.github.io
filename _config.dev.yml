@@ -5,9 +5,13 @@ url: http://localhost:4000
 analytics:
   provider: false
 
-comments:
+comments: "facebook"
   disqus:
     shortname            : "mmistakes-dev"
+  facebook:
+    appid                : 475603466655907
+    num_posts            : 5
+    colorscheme          : "light"
 
 sass:
   style: expanded
