@@ -11,12 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics Specialist and Computer Science Minor, University of Toronto Scarbrough, 2020
-* <details>
-    <summary>Relevant courses</summary>
-  
-     ################################### Final two year cGPA (3.85) ################################### 1.Statistics : Introduction to Probability, Introduction to Statistics, Stochastic Process, Stochastic Inference, Methods of Data Analysis I & II, Data Collection, Design SCI Studies, Advanced Statistical Learning and Data Mining, Time Series.------------------------------------------------------------------------------------------------------------------------------ 2.Computer Science : Software engineering, Introduction to Machine Learning and Data Mining, Introduction to Artificial Intelligence, Data Structure, Database, Computational Theory, Numerical Algorithms, Software Tools and Systems Programming, Software Design.--------------------------------------------------------------------------------------- 3.Mathematics : Linear Algebra, Discrete Mathematics, Calculus for Mathematical Sciences, Introduction to Combinatorics, Linear Programming and Optimization, Techniques of the Calculus of Multivariables.  
-  </details>
+* Honours Bachelor of Science, University of Toronto Scarbrough, 2020
+* Statistics Specialist
+* Computer Science Minor
 
 Skills
 ======
