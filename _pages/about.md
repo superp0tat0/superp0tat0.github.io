@@ -20,6 +20,5 @@ I am currently looking for possible Summer internships and Graduated Education. 
 More about me
 ===
 
-I believe there are connections between different knowledges. Driven by my belief, I explored more beyond daily schoolwork. I like reading books about economy, psychology and history, where economy describes human behaviors, and psychology describes the ideology of human behaviors. Interestingly there are always contradictions between them, where history proved recursively.  
-My favorite books include "Game Theory", "The Theory of Moral Sentiments", "Sapiens: A Brief History of Humankind“，"大败局(Big Flop)"， "激荡三十年（Thirty years agitation）", which I highly recommend. Those books gave me great inspirations.
+I believe there are connections between different knowledges. Driven by my belief, I explored more beyond daily schoolwork. I like reading books about economy, psychology and history, where economy describes human behaviors, and psychology describes the ideology of human behaviors. Interestingly there are always contradictions between them, where history proved recursively.
 
