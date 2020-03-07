@@ -25,13 +25,19 @@ Skills
   * Modeling
   * Data Analyzing
 
-Work experience
+Research experience
 ======
 * Winter 2020: Research Assistant
   * University of Toronto Scarbrough
   * Duties included: MOSS Data Analysis
   * Supervisor: Professor Kang
+* Summer 2019: Research Assistant
+  * University of Toronto Scarbrough
+  * Duties included: CSCA08 Drop Rate Analysis
+  * Supervisor: Professor Harrington
 
+Work experience
+======
 * Winter 2019: QA analyst and WEB development
   * Rakuten Kobo
   * Duties included: 
