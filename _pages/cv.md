@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Honours Bachelor of Science, University of Toronto Scarbrough, 2020
-  * Statistics Specialist
+  * Statistics Specialist: Statistical Learning Concentration
   * Computer Science Minor
 
 Skills
