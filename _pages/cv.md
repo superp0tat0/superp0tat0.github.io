@@ -13,7 +13,7 @@ Education
 ======
 * Honours Bachelor of Science, University of Toronto Scarbrough, 2020
   * Statistics Specialist: Statistical Learning Concentration
-  * Computer Science Minor
+  * Computer Science Minor: Data Science Concentration
 
 Skills
 ======
@@ -29,7 +29,7 @@ Research experience
 ======
 * Winter 2020: Research Assistant
   * University of Toronto Scarbrough
-  * Duties included: MOSS Data Analysis
+  * Duties included: MOSS Data Analysis and Interactive Data Visualization
   * Supervisor: Professor Kang
 * Summer 2019: Research Assistant
   * University of Toronto Scarbrough
