@@ -19,11 +19,13 @@ Skills
 ======
 * Programming
   * Python/R/C#/C/SQL/MATLAB
-  * Linux(Ubuntu)/Git/Tenserflow/Jenkins/Docker
+  * Linux(Ubuntu)/Git/Jenkins/Docker
+  * Keras/Pytorch/Tensorflow
 * Data Science
   * Feature Engineering
-  * Modeling
-  * Data Analyzing
+  * Data Modeling
+  * Statistical Analysis
+  * Data Visualization
 
 Research experience
 ======
