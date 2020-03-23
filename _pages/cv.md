@@ -43,7 +43,7 @@ Work experience
 * Winter 2019: QA analyst and WEB development
   * Rakuten Kobo
   * Duties included: 
-    * Deliver web stories that improve the crawler performance following custom Agile management and report to release manager during daily release meetings. The stories help the access rate increase 22% compare to the same period in 2018.
+    * Deliver web stories that improve the GoogleBot performance following custom Agile management and report to release manager during daily release meetings. The stories help the access rate increase 22% compare to the same period in 2018.
     * Developing New Kobo Audio subscription plan web page and API services using C#, report it to product owner. Got positive feedback in code skills from the developers.
     * Implement UI automation test cases for multiple stories with selenium and Ruby.
 

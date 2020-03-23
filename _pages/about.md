@@ -20,5 +20,6 @@ I am currently looking for possible Summer internships and Graduated Education. 
 More about me
 ===
 
-I believe there are connections between different knowledges. Driven by my belief, I explored more beyond daily schoolwork. I like reading books about economy, psychology and history, where economy describes human behaviors, and psychology describes the ideology of human behaviors. Interestingly there are always contradictions between them, where history proved recursively.
+I believe there are connections between different knowledges. Which is the reason I explored more beyond daily schoolwork. I like reading books about economy, psychology and history. All those books are somehow relate to Social Science.
+About my blogs. I write them to help me understand. "You cannot learn clearly if you cannot teach", that's my way to apply feynman technique. So if you find any problems in the blogs, please comment below. I appreciate all the comments.
 
