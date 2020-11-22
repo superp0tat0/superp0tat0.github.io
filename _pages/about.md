@@ -7,20 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*"I know that I know nothing"*
+*"I know that I know nothing" -- Socrates, not me*
 
 Personal Summary
 ===
 Hi, Visitors
 
-My name is Siyi Wei, and I am currently a final year statistical specialist. My interest lies between statistics and computer science. Moreover, I am specifically interest in Machine Learning algorithms and Statistical Learning ideologies. Driven by my interests, I have participated DataFest UofT 2019, RBC Hackthoron 2019 and Business Data Scientist Challenge Statistics Canada 2020 as data scientist.  
-I am currently looking for possible Summer internships and Graduated Education. Check my projects at [my github](https://github.com/superp0tat0/), and [my resume](https://superp0tat0.github.io/files/resume.pdf).
+My name is Siyi Wei, and I am currently a final year statistical master student in Department of Statistical Science at University of Toronto. I finished my undergraduate degree (Statistical Specialist) in University of Toronto Scarborough Campus. My interest lies between statistics and computer science. Moreover, I am specifically interest in Machine Learning algorithms and Statistical Learning ideologies. Driven by my interests, I have participated DataFest UofT 2019, RBC Hackthoron 2019 and Business Data Scientist Challenge Statistics Canada 2020 as data scientist.
+I am currently looking for possible Summer internship. Check my projects at [my github](https://github.com/superp0tat0/), and [my resume](https://superp0tat0.github.io/files/resume.pdf).
 
 
 More about me
 ===
 
-I believe there are connections between different knowledges. Which is the reason I explored more beyond daily schoolwork. I like reading books about economy, psychology and history. All those books are somehow relate to Social Science.
+I believe there are connections between different knowledges. Which is the reason I explored more beyond daily schoolwork.  To be honest, I think only 20% of what I learned came from university. There is about 60% came from Internet. 3blue1brown is my favorite youtube channel. I will recommend to every student I have TAed. Google is always your best friend. Stack Overflow has lots of kind people. Coursera and MITOpenCourse offer lots of great courses for free. The rest 20% came from books (not textbooks, they are included in the 20% from university). I like reading books about economy, psychology and history. I recently finished “The Black Swan” and “Amusing Ourselves to Death”.
 
-About my blogs. I write them to help me understand, so they may include all different topics. Most of them are data science and statistics related though. "You cannot learn clearly if you cannot teach", that's my way to apply feynman technique. So if you find any problems in the blogs, please comment below. I appreciate all the comments.
+About my blogs. I write them to help me understand, so they may include all different topics. Most of them are data science and statistics related though. "You cannot learn clearly if you cannot teach", that's my way to apply Feynman technique. So, if you find any problems in the blogs, please comment below. I appreciate all the comments.
 
