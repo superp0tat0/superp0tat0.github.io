@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Siyi Wei / UTSG Graduate Student"
+title                    : "Siyi Wei / New Graduate"
 title_separator          : "-"
 name                     : &name "siyi wei"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Siyi Wei"
   avatar           : "https://superp0tat0.github.io/files/teaser.jpg"
-  bio              : "UTSG Graduate Student"
+  bio              :
   location         : "Toronto"
   employer         :
   pubmed           :
