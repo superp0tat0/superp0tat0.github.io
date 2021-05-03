@@ -20,9 +20,9 @@ Education
 Skills
 ======
 * Programming
-  * Python/R/C#/C/SQL/MATLAB
-  * Linux(Ubuntu)/Git/Jenkins/Docker
-  * Keras/Pytorch/Tensorflow
+  * Language: Python(Scikit-Learn, Pandas, Numpy, PyTorch, PySpark)/R(Tidyverse, RShiny, mlr3, qqplot2)/C#/SQL/MATLAB
+  * Technologies: Linux(Ubuntu)/Git/Jenkins/Docker/Amazon Web Services
+  * Machine Learning Framework: Keras/Pytorch
 * Data Science
   * Feature Engineering
   * Data Modeling
@@ -45,9 +45,9 @@ Work experience
 * Winter 2019: QA analyst and WEB development
   * Rakuten Kobo
   * Duties included: 
-    * Deliver web stories that improve the GoogleBot performance following custom Agile management and report to release manager during daily release meetings. The stories help the access rate increase 22% compare to the same period in 2018.
-    * Developing New Kobo Audio subscription plan web page and API services using C#, report it to product owner. Got positive feedback in code skills from the developers.
-    * Implement UI automation test cases for multiple stories with selenium and Ruby.
+    * Worked on development and QA for new Kobo Audio subscription services using Jenkins, Ruby and selenium. Wrote SQL and Ruby scripts for daily regression testing on production stage. Collaborate with Manager to design A/B Testing to improve current features.
+    * Responsible for the QA automation and bug tracking system for 4 months, prevent service failure for multiple times and received praise from team lead and promoted to work on web development and ETL pipeline for new subscription.
+    * Developed web page and ETL pipeline using C\# and MongoDB via CI/CD pipeline, automated the data collection process and developed new metrics for subscription data. Received praise from Big Data Team for increasing their efficiency of the data collection process.
 
 Teaching experience
 ======
