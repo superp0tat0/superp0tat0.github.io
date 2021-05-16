@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Resume](https://superp0tat0.github.io/files/re1.jpg)
+
 Education
 ======
 * Master of Science, University of Toronto St. George, 2021
