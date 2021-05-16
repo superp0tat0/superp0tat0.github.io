@@ -11,26 +11,6 @@ redirect_from:
 
 ![](https://superp0tat0.github.io/files/re1.jpg)
 
-Education
-======
-* Master of Science, University of Toronto St. George, 2021
-  * Statistics
-* Honours Bachelor of Science, University of Toronto Scarbrough, 2020
-  * Statistics Specialist: Statistical Learning and Data Science Concentration
-  * Computer Science Minor: Data Science Concentration
-
-Skills
-======
-* Programming
-  * Language: Python(Scikit-Learn, Pandas, Numpy, PyTorch, PySpark)/R(Tidyverse, RShiny, mlr3, qqplot2)/C#/SQL/MATLAB
-  * Technologies: Linux(Ubuntu)/Git/Jenkins/Docker/Amazon Web Services
-  * Machine Learning Framework: Keras/Pytorch
-* Data Science
-  * Feature Engineering
-  * Data Modeling
-  * Statistical Analysis
-  * Data Visualization
-
 Research experience
 ======
 * Winter 2020: Research Assistant
