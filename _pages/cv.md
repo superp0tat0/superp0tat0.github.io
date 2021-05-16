@@ -22,15 +22,6 @@ Research experience
   * Duties included: CSCA08 Drop Rate Analysis
   * Supervisor: Professor Harrington
 
-Work experience
-======
-* Winter 2019: QA analyst and WEB development
-  * Rakuten Kobo
-  * Duties included: 
-    * Worked on development and QA for new Kobo Audio subscription services using Jenkins, Ruby and selenium. Wrote SQL and Ruby scripts for daily regression testing on production stage. Collaborate with Manager to design A/B Testing to improve current features.
-    * Responsible for the QA automation and bug tracking system for 4 months, prevent service failure for multiple times and received praise from team lead and promoted to work on web development and ETL pipeline for new subscription.
-    * Developed web page and ETL pipeline using C\# and MongoDB via CI/CD pipeline, automated the data collection process and developed new metrics for subscription data. Received praise from Big Data Team for increasing their efficiency of the data collection process.
-
 Teaching experience
 ======
 * Teaching Assistant:
