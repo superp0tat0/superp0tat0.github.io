@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Resume](https://superp0tat0.github.io/files/re1.jpg)
+![](https://superp0tat0.github.io/files/re1.jpg)
 
 Education
 ======
