@@ -26,6 +26,9 @@ Teaching experience
 ======
 * Teaching Assistant:
   * Graduate
+    * MATA22: Linear Algebra I
+    * STAB22: Introduction to Statistics (Head TA)
+    * MATA37: Calculus II for Mathmetical Science
     * STAC62: Stochastic Process
     * CSCC11: Introduction to Machine Learning and Data Mining
     * STAD68: Advanced Machine Learning and Data Mining
