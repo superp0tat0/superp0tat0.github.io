@@ -120,7 +120,7 @@ I will do a quick review of what are bayes(Naive Bayes) and maximum likelihood e
 
 **Naive Bayes** <br />
 To conclude [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), it is a simple but powerful equation that could combine prior (The knowledge you know before building the model etc hypothesis sets) and likelihood (The parameters likelihood comes from observations). Where the formula is defined as: <br />
-<img src="https://github.com/superp0tat0/superp0tat0.github.io/raw/master/files_posts/post2/naive_bayes.png" alt="Naive Bayes" class="center">
+<div style="text-align: center;"><img scr='https://github.com/superp0tat0/superp0tat0.github.io/raw/master/files_posts/post2/naive_bayes.png'></div>
 * Likelihood(Likelihood): The probability we observe our samples condition on a specific parameter.
 * Class Prior Probability(Prior): The probability we have this specific parameter.
 * Predicator Prior Probability(Data): The probability we got our observations
