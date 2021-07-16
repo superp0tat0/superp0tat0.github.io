@@ -29,4 +29,3 @@ Data Science, Statistics, Machine Learning and Computer Science
 
 ## Other Interests
 Reading and Travelling
-<\br>
