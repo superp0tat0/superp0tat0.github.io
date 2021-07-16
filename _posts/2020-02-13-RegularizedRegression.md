@@ -1,7 +1,6 @@
 ---
 title: 'How Ridge/Lasso Regression could solve overfit from a probability prospective?'
 date: 2020-02-13
-permalink: /posts/2020/02/BP1/
 tags:
   - Machine Learning
   - Probability
