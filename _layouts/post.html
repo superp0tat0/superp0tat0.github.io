@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article>
-  <h2>{{ page.title }}</h2>
+  {% raw %}{% if page.external_url %}
+  <a href="{{ page.external_url }}">{{ page.title }}</a>
+  {% else %}
+  <a href="{{ page.url }}">{{ page.title }}</a>
+  {% endif %}{% endraw %}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>

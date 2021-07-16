@@ -27,11 +27,9 @@ title: Archive
         {% endif %}
       {% endunless %}
         <li><time>{{ post.date | date:"%d %b" }} - </time>
-        {% raw %}{% if post.external_url %}
-        <a href="{{ post.external_url }}">{{ post.title }}</a>
-        {% else %}
-        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-        {% endif %}{% endraw %}
+          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+            {{ post.title }}
+          </a>
         </li>
     {% endfor %}
     </ul>
