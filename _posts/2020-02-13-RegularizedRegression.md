@@ -131,7 +131,7 @@ To conclude [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier),
 
 Now let's move on the connection between Naive Bayes to Ridge regression. To maximum our posterior given a set of observations. We only need to maximize $$likelihood*prior$$ since the data probability will hold for all the parameters.
 
-To maximum the $likelihood \times prior$. We could do some transformation to make our like easier. We define $$x_1,x_2, ... x_n$$ to be our observations and $$\beta$$ to be our hypothesis parameters, where we prefer $$\beta$$ to be a gaussian $$\beta \sim \mathcal{N}(0,\lambda^{-1})$$. We also define our target function to be: $$y_i = \beta x_i + \epsilon$$ where $$\epsilon \sim \mathcal{N (0,\sigma^2)}$$
+To maximum the $likelihood \times prior$. We could do some transformation to make our like easier. We define $$x_1,x_2, ... x_n$$ to be our observations and $$\beta$$ to be our hypothesis parameters, where we prefer $$\beta$$ to be a gaussian $$\beta \sim \mathcal{N}(0,\lambda^{-1})$$. We also define our target function to be: $$y_i = \beta x_i + \epsilon$$ where $$\epsilon \sim \mathcal{N} (0,\sigma^2)$$
 Now our $$likelihood \times prior$$ will be a gaussian $$likelihood \times gaussian prior$$: $$LP = \prod_{i=1}^{n}\mathcal{N}(y_i|\beta x_i,\sigma^2)\mathcal{N}(\beta|0,\lambda^{-1})$$.
 To find $$\beta$$ maximize $$LP$$, we could find the equivalent $$\beta$$ satisfy the following:
 
