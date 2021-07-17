@@ -26,4 +26,4 @@ First, we need a chrome extention called [get cookies.txt](https://chrome.google
 !wget -x --load-cookies kaggle.com_cookies.txt "https://www.kaggle.com/c/[Competition Name]/download-all" -O data.zip
 ```
 
-Done. (Source)[https://www.kaggle.com/questions-and-answers/135301] credit @ Anusha Nidamanuri
+Done. [Source](https://www.kaggle.com/questions-and-answers/135301) credit @ Anusha Nidamanuri
