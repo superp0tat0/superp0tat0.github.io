@@ -16,7 +16,7 @@ However, through my usage of their API service. I found their APIs are not consi
 
 So we could use ```wget``` instead with Google Colab. However, kaggle requires user authentication to download the datasets. We could use cookies from kaggle to authenticate our request. And here are the steps on how to do it.
 
-First, we need a chrome extention called ![get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid/related). Then you need to go to a logged in kaggle webpage to download the kaggle cookies and upload it to Google Drive. After that:
+First, we need a chrome extention called [get cookies.txt](https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid/related). Then you need to go to a logged in kaggle webpage to download the kaggle cookies and upload it to Google Drive. After that:
 
 1. Go to the Google Colab, mount the drive.
 1. Go to the path you stored kaggle.com_cookies.txt. 
@@ -26,4 +26,4 @@ First, we need a chrome extention called ![get cookies.txt](https://chrome.googl
 !wget -x --load-cookies kaggle.com_cookies.txt "https://www.kaggle.com/c/[Competition Name]/download-all" -O data.zip
 ```
 
-Done.
+Done. [Source](https://www.kaggle.com/questions-and-answers/135301) @ Anusha Nidamanuri

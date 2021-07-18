@@ -120,7 +120,7 @@ I will do a quick review of what are bayes(Naive Bayes) and maximum likelihood e
 
 **Naive Bayes** <br />
 To conclude [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), it is a simple but powerful equation that could combine prior (The knowledge you know before building the model etc hypothesis sets) and likelihood (The parameters likelihood comes from observations). Where the formula is defined as: <br />
-<div style="text-align: center;"><img scr='https://github.com/superp0tat0/superp0tat0.github.io/raw/master/files_posts/post2/naive_bayes.png'></div>
+![](https://github.com/superp0tat0/superp0tat0.github.io/raw/master/files_posts/post2/naive_bayes.png) <br />
 * Likelihood(Likelihood): The probability we observe our samples condition on a specific parameter.
 * Class Prior Probability(Prior): The probability we have this specific parameter.
 * Predicator Prior Probability(Data): The probability we got our observations
@@ -129,8 +129,10 @@ To conclude [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier),
 **Maximum Likelihood Estimator** <br/>
 [Maximum Likelihood Estimator(MLE)](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation) is simply the approach we want to maximize the Likelihood as we mentioned above. As you could find, if we have an equal probability to all hypothesis, then maximum the posterior is the same as maximum the likelihood. Since we have no preference to anyone of the hypothesis.
 
-Now let's move on the connection between Naive Bayes to Ridge regression. To maximum our posterior given a set of observations. We only need to maximize $$likelihood*prior$$ Since the data probability will hold for all the parameters. To maximum the $likelihood*prior$. We could do some transformation to make our like easier. We define $$x_1,x_2, ... x_n$$ to be our observations and $$\beta$$ to be our hypothesis parameters, where we prefer $$\beta$$ to be a gaussian prior st $$\beta \sim \mathcal{N}(0,\lambda^{-1})$$. We also define our target function to be: $$y_i = \beta x_i + \epsilon$$  where $$\epsilon \sim \mathcal{N}(0,\sigma^2)$$.
-Now our likelihood*prior will be a gaussian likelihood * gaussian prior: $$LP = \prod_{i=1}^{n}\mathcal{N}(y_i|\beta x_i,\sigma^2)\mathcal{N}(\beta|0,\lambda^{-1})$$.
+Now let's move on the connection between Naive Bayes to Ridge regression. To maximum our posterior given a set of observations. We only need to maximize likelihood $$\times$$ prior since the data probability will hold for all the parameters.
+
+To maximum the likelihood $$\times$$ prior. We could do some transformation to make our like easier. We define $$x_1,x_2, ... x_n$$ to be our observations and $$\beta$$ to be our hypothesis parameters, where we prefer $$\beta$$ to be a gaussian $$\beta \sim \mathcal{N}(0,\lambda^{-1})$$. We also define our target function to be: $$y_i = \beta x_i + \epsilon$$ where $$\epsilon \sim \mathcal{N} (0,\sigma^2)$$
+Now our likelihood $$\times$$ prior will be a gaussian likelihood $$\times$$ gaussian prior: $$LP = \prod_{i=1}^{n}\mathcal{N}(y_i|\beta x_i,\sigma^2)\mathcal{N}(\beta|0,\lambda^{-1})$$.
 To find $$\beta$$ maximize $$LP$$, we could find the equivalent $$\beta$$ satisfy the following:
 
 $$
