@@ -29,3 +29,5 @@ Data Science, Statistics, Machine Learning and Computer Science
 
 ## Other Interests
 Reading and Travelling
+
+![mi-amigo](https://github.com/superp0tat0/superp0tat0.github.io/raw/master/files_posts/amigo.png)
